@@ -14,4 +14,4 @@ Node Track Challenge - Ignite - @Rocketseat. It consists of an API for creating 
 - Should be able to delete a todo
 - Should not be able to delete a non existing todo
 
-### You can see then all rules are corret running the tests of the application.
+### You can see then all rules are correct running the tests of the application.
